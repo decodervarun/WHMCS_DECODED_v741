@@ -2,9 +2,11 @@
 
 WHMCS v 7.4.1 Full - Decoded (deioncubed) & Nulled and free updates!
 
-we are happy to announce that our team has fully deioncubed the WHMCS and nulled ( removed all callbacks ).
+WHMCS raise prices per client and license. This WHMCS version can save $10,000+ a year with new prices.
 
-decoded pure PHP code The program code is full decoded from Ioncube, unprotected and you don't need Ioncube Loader extension anymore.
+I am happy to announce I have fully deioncubed the WHMCS and nulled ( removed all callbacks ).
+
+Decoded pure PHP code The program code is full decoded from Ioncube, unprotected and you don't need Ioncube Loader extension anymore.
 
 This is not usual WHMCS "nulled" package, like everyone else is selling. Not usual just cracked license file version, all other files ioncube encoded, with all the home-calls still active and waiting for your installation to be detected an blocked! 
 
